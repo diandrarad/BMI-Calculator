@@ -12,9 +12,9 @@ This BMI (Body Mass Index) Calculator is a web application that allows users to 
 2. Enter your weight in kilograms (KG) and your height in centimeters (CM).
 3. Click the "Calculate BMI" button to see your BMI result and category.
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](screenshot1.png)
+![Screenshot](screenshot.png)
 
 ## Technologies Used
 
