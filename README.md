@@ -12,7 +12,7 @@ This BMI (Body Mass Index) Calculator is a web application that allows users to 
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
 
 ## Technologies Used
 
