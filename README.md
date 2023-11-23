@@ -33,7 +33,3 @@ This BMI (Body Mass Index) Calculator is a web application that allows users to 
 ## Credits
 
 This BMI Calculator project was created as part of the Technical Project Assignment for the Web Development Basic Stage at Skilvul.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
